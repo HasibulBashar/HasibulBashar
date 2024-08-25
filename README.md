@@ -5,7 +5,7 @@
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasibulbashar&label=Profile%20views&color=0e75b6&style=flat" alt="hasibulbashar" /> </p>
-<img align="right" alt="Coding" width="800" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeEvPlbBKpZlpoWrdpzNvyAlO6h9CixongQ&s">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPeEvPlbBKpZlpoWrdpzNvyAlO6h9CixongQ&s">
 
 - 🌱 I’m currently learning **Routing,Switching**
 
